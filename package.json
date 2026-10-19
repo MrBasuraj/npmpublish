@@ -1,0 +1,12 @@
+{
+  "name": "npmpublish",
+  "version": "1.0.0",
+  "description": "My GSAP animation library",
+  "main": "animation.js", 
+  "keywords": ["animation", "gsap", "javascript"],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.12.0"
+  }
+}
