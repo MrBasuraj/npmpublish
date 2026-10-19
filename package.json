@@ -1,11 +1,11 @@
 {
-  "name": "npmpublish",
+  "name": "@mr.basuraj/npmpublish",
   "version": "1.0.0",
-  "description": "My GSAP animation library",
-  "main": "animation.js", 
-  "keywords": ["animation", "gsap", "javascript"],
-  "author": "Your Name",
-  "license": "ISC",
+  "description": "GSAP Animation library",
+  "main": "animation.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "gsap": "^3.12.0"
   }
