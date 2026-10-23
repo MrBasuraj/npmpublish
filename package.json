@@ -1,7 +1,7 @@
 {
   "name": "@mr.basuraj/npmpublish",
-  "version": "1.0.3",
-  "description": "GSAP Animation library",
+  "version": "1.1.0",
+  "description": "Animation of a running man",
   "main": "animation.js",
   "publishConfig": {
     "access": "public"
